@@ -1,0 +1,32 @@
+@media (max-width: 620px) {
+    .naruto-slider {
+        padding: 1px;
+        gap: 1px;
+    }
+
+    .btn-seta {
+        width: 2px;
+        height: 2px;
+        padding: 2px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista-naruto {
+        height: 100px;
+    }
+
+    .cartao .imagem-naruto {
+        max-height: 200px;
+    }
+
+    .cartao .informacoes .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .vida {
+        font-size: 10px;
+    }
+}
